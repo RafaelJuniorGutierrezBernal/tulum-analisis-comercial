@@ -1,0 +1,41 @@
+cliente_id,nombre,ciudad,canal_contacto
+C001,Cliente 1,Los Angeles,Instagram
+C002,Cliente 2,Bogota,Instagram
+C003,Cliente 3,Barranquilla,Instagram
+C004,Cliente 4,Miami,Showroom
+C005,Cliente 5,Cali,Instagram
+C006,Cliente 6,Miami,Instagram
+C007,Cliente 7,Barranquilla,Instagram
+C008,Cliente 8,Medellin,WhatsApp
+C009,Cliente 9,Miami,WhatsApp
+C010,Cliente 10,Miami,Instagram
+C011,Cliente 11,Bogota,WhatsApp
+C012,Cliente 12,Miami,Instagram
+C013,Cliente 13,Los Angeles,Showroom
+C014,Cliente 14,Bogota,WhatsApp
+C015,Cliente 15,Los Angeles,WhatsApp
+C016,Cliente 16,Medellin,WhatsApp
+C017,Cliente 17,Medellin,WhatsApp
+C018,Cliente 18,Miami,Instagram
+C019,Cliente 19,Cali,Instagram
+C020,Cliente 20,Barranquilla,Showroom
+C021,Cliente 21,Miami,Instagram
+C022,Cliente 22,Medellin,Instagram
+C023,Cliente 23,Miami,Showroom
+C024,Cliente 24,Barranquilla,WhatsApp
+C025,Cliente 25,Miami,WhatsApp
+C026,Cliente 26,Miami,WhatsApp
+C027,Cliente 27,Miami,Showroom
+C028,Cliente 28,Cali,Instagram
+C029,Cliente 29,Bogota,WhatsApp
+C030,Cliente 30,Miami,Instagram
+C031,Cliente 31,Medellin,WhatsApp
+C032,Cliente 32,Miami,Instagram
+C033,Cliente 33,Cali,Instagram
+C034,Cliente 34,Bogota,WhatsApp
+C035,Cliente 35,Cali,WhatsApp
+C036,Cliente 36,Cali,Instagram
+C037,Cliente 37,Barranquilla,WhatsApp
+C038,Cliente 38,Barranquilla,WhatsApp
+C039,Cliente 39,Medellin,WhatsApp
+C040,Cliente 40,Barranquilla,Web

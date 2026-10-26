@@ -1,0 +1,17 @@
+referencia,nombre,categoria,costo_unitario,precio_unitario,dias_produccion_prometidos
+REF001,Bikini Coral,Swim,21365,25835,60
+REF002,Enteriza Mar,Swim,20676,23747,70
+REF003,Short Playa,Swim,23180,29344,70
+REF004,Pareo Lino,Swim,15553,18838,70
+REF005,Legging Pro,Active,23649,32531,70
+REF006,Top Sport,Active,29073,36844,60
+REF007,Short Run,Active,21926,28333,70
+REF008,Conjunto Flex,Active,29131,38146,50
+REF009,Vestido Lino,Resort,35371,46310,50
+REF010,Camisa Resort,Resort,37396,53399,70
+REF011,Falda Midi,Resort,26919,36089,60
+REF012,Conjunto Brisa,Resort,26314,36872,50
+REF013,Scrub Medico,Uniformes,23447,29245,60
+REF014,Delantal Chef,Uniformes,19704,23164,50
+REF015,Camisa Corp,Uniformes,17894,20161,70
+REF016,Overol Taller,Uniformes,18269,22004,60
